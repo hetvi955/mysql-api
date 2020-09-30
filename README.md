@@ -1,1 +1,1 @@
-# simple mySQL api with sequelize nodeJS, react.
+ simple mySQL api with sequelize nodeJS, react.
